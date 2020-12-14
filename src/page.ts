@@ -1,4 +1,4 @@
-// console.log("tech.taiji.com.cn")
+console.log("tech.taiji.com.cn")
 
 namespace Home{
     // class Header {
@@ -25,7 +25,7 @@ namespace Home{
     //     }
     //   }
       
-     export class Page {
+    export class Page {
         constructor() {
           new Components.Header();
           new Components.Content();

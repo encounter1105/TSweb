@@ -1,4 +1,3 @@
-"use strict";
 var Components;
 (function (Components) {
     var SubComponents;
@@ -38,7 +37,7 @@ var Components;
     }());
     Components.Footer = Footer;
 })(Components || (Components = {}));
-// console.log("tech.taiji.com.cn")
+console.log("tech.taiji.com.cn");
 var Home;
 (function (Home) {
     // class Header {
